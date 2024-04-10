@@ -1,5 +1,5 @@
-import resumeImage from '../docs/';
-import resumePDF from '../docs/';
+import resumeImage from '../docs/Zach Brewer Resume.png';
+import resumePDF from '../docs/Zach Brewer Resume.pdf';
 
 function Resume() {
   return (
